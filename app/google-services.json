@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956293902457",
+    "firebase_url": "https://grocery-app-5779a-default-rtdb.firebaseio.com",
+    "project_id": "grocery-app-5779a",
+    "storage_bucket": "grocery-app-5779a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956293902457:android:6c684a48ef0b419591a4a8",
+        "android_client_info": {
+          "package_name": "com.tingtingman.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956293902457-f8870i0867lnm0o012nrkpld4k36uf95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBdkpDhPygblUsqgkQXiC0xpmy1M7W_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956293902457-f8870i0867lnm0o012nrkpld4k36uf95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
